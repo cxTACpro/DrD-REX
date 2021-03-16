@@ -23,6 +23,7 @@ main.Parent = Cheetar
 main.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 main.Position = UDim2.new(0.323636353, 0, 0.331813008, 0)
 main.Size = UDim2.new(0, 434, 0, 263)
+main.Draggable = true
 
 DREX.Name = "DREX"
 DREX.Parent = main
@@ -37,6 +38,7 @@ DREX.TextScaled = true
 DREX.TextSize = 14.000
 DREX.TextStrokeColor3 = Color3.fromRGB(22, 222, 0)
 DREX.TextWrapped = true
+DREX.Draggable = true
 
 OwlHub.Name = "OwlHub"
 OwlHub.Parent = main
